@@ -65,19 +65,19 @@ button:hover {
   width: 100%;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 390px) {
   .encabezado{
     width: 100%;
   }
   .formulario {
-    width: 430px;
+    width: 350px;
     padding: 20px;
     margin: 15px;
   }
 
   .formulario input,
 .formulario textarea {
-  width: 400px;
+  width: 320px;
   padding: 10px;
   margin-top: 5px;
   border: 1px solid #ccc;
