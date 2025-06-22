@@ -63,3 +63,18 @@ button:hover {
   bottom: 0;
   width: 100%;
 }
+
+@media (max-width: 600px) {
+  .formulario {
+    padding: 20px;
+  }
+
+  .formulario h2 {
+    font-size: 1.5em;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
