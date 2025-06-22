@@ -97,3 +97,12 @@ body{
 .logo img:hover{
     transform: scale(1.05);
 }
+
+.pie {
+  background-color: #3a8f37;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  bottom: 0;
+  width: 100%;
+}
